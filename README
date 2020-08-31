@@ -1,0 +1,7 @@
+50MB'a kadar dosya yukleme ve indirmeye olanak veren Spring Boot Uygulamasi
+
+Veritabani olarak mongo ve veritabanina verilerin boyutu fazla oldugu icin parcali olarak
+kaydetmeyi saglayan gridfs kullanildi.
+
+Istekler postman uzerinden yapilmaktadir.Donya turune gore video ve resim gosterilir.
+Farkli dosya uzantilar ise indirme olarak sunulur.
